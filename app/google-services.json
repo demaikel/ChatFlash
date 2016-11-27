@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "788733842306",
+    "firebase_url": "https://chatflash-c0920.firebaseio.com",
+    "project_id": "chatflash-c0920",
+    "storage_bucket": "chatflash-c0920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788733842306:android:bac8c616637fbb3e",
+        "android_client_info": {
+          "package_name": "demaikel.chatflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788733842306-or3lgvngbki0ba96n0akq8nrl993b8k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demaikel.chatflash",
+            "certificate_hash": "8820E2EA60F215B1F7C3A9E904FF959692B0893C"
+          }
+        },
+        {
+          "client_id": "788733842306-6kbui2i1aqaiu6vm48e1dqo3iaupn7je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demaikel.chatflash",
+            "certificate_hash": "775ADD73770AD55A133095DD3D65B70631EE17AD"
+          }
+        },
+        {
+          "client_id": "788733842306-7rcu0akf6gleg92pn2h9jjigcmnobdcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5IyFnPqJAlmULTH-sNr1GFngT3QyBhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788733842306-7rcu0akf6gleg92pn2h9jjigcmnobdcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
